@@ -8,4 +8,4 @@ DW Ziegler et al. (2005): Reading Acquisition, Developmental Dyslexia, and Skill
 
 
 ## Plot
-
+![WO vs. Beer Consumption](Picture1.png)
